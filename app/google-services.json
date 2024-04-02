@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571124357015",
+    "project_id": "java-app-5dedd",
+    "storage_bucket": "java-app-5dedd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571124357015:android:a3865ca0c81e690bbb56d2",
+        "android_client_info": {
+          "package_name": "com.javaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_lDwdY2FRK82lgN2Cqd9pij4evsgU8zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
